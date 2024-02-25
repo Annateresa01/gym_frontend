@@ -9,7 +9,7 @@ class user extends StatelessWidget {
       home: Scaffold(
         body: Center(
           child: Container(
-
+width: 2000,
             decoration: BoxDecoration(
               gradient: LinearGradient(
                 colors: [
